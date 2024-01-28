@@ -1,9 +1,8 @@
 function Home() {
   return (
-    <h1>
-      Bem vindo! Por enquanto tudo é mato...Mas é um início que quero
-      compartilhar com você!🥰
-    </h1>
+    <div>
+      <img src="https://www.gov.br/agricultura/pt-br/assuntos/riscos-seguro/imagens/em_construao.png/@@images/image.png" />
+    </div>
   );
 }
 
